@@ -16,7 +16,7 @@ The CPU Scheduling Simulator is a web-based application designed to help users u
   - 🔄 Turnaround times
   - ⏳ Waiting times for each process
   - 📊 Average turnaround and waiting times
-- **GitHub Integration:** Includes a link to the [GitHub repository](https://github.com/manishkmr49/CPU-Scheduling-Simulator) for easy access to the source code and collaboration.
+- **GitHub Integration:** Includes a link to the [GitHub repository](https://github.com/yash04bisht/CPU-Process-Scheduling-Simulator.git) for easy access to the source code and collaboration.
 
 ## 🛠️ Technologies Used
 
@@ -31,7 +31,7 @@ The CPU Scheduling Simulator is a web-based application designed to help users u
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/manishkmr49/CPU-Scheduling-Simulator.git
+   git clone https://github.com/yash04bisht/CPU-Process-Scheduling-Simulator.git
 
 2. Open index.html in a web browser.
 
